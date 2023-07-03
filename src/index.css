@@ -1,0 +1,35 @@
+/*! SCROLLBAR - start */
+/* Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(100, 116, 139, 0.502) rgba(100, 116, 139, 0.161);
+}
+
+/* Chrome, Edge and Safari */
+*::-webkit-scrollbar {
+    width: 0.375rem;
+}
+*::-webkit-scrollbar-track {
+    border-radius: 5px;
+    background-color: rgba(100, 116, 139, 0.161);
+}
+*::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: rgba(100, 116, 139, 0.502);
+}
+/* SCROLLBAR - end */
+
+.ant-switch-inner-checked {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+
+.ant-switch-inner-unchecked{
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}

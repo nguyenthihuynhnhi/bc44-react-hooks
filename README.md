@@ -1,8 +1,8 @@
 # Quản Lý Sinh Viên
 
-## Link gitLab
+## Link gitHub
 
-https://gitlab.com/huynhnhinguyen0301/bc44_reactjs_b37_nguyenthihuynhnhi_reactjsfrom
+https://github.com/nguyenthihuynhnhi/bc44-react-hooks.git
 
 ## Link deploy
 
